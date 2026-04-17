@@ -1,7 +1,5 @@
 {
-  "timestamp": 1710000000,
-  "status": "success",
-  "data": [
+  "crypto": [
     {
       "id": "bitcoin",
       "symbol": "btc",
@@ -45,6 +43,17 @@
         "change_24h": null
       },
       "status": "maintenance"
+    },
+    {
+      "id": "polkadot",
+      "symbol": "dot",
+      "name": "Polkadot",
+      "metrics": {
+        "current_price": 7.25,
+        "market_cap": 10000000000,
+        "change_24h": -0.5
+      },
+      "status": "active"
     }
   ]
 }
