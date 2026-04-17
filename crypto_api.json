@@ -1,0 +1,61 @@
+{
+  "timestamp": 1710000000,
+  "status": "success",
+  "data": [
+    {
+      "id": "bitcoin",
+      "symbol": "btc",
+      "name": "Bitcoin",
+      "metrics": {
+        "current_price": 65000.5,
+        "market_cap": 1280000000000,
+        "change_24h": 2.5
+      },
+      "status": "active"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "eth",
+      "name": "Ethereum",
+      "metrics": {
+        "current_price": 3500.2,
+        "market_cap": 420000000000,
+        "change_24h": -1.2
+      },
+      "status": "active"
+    },
+    {
+      "id": "solana",
+      "symbol": "sol",
+      "name": "Solana",
+      "metrics": {
+        "current_price": 145.8,
+        "market_cap": 65000000000,
+        "change_24h": 5.7
+      },
+      "status": "active"
+    },
+    {
+      "id": "cardano",
+      "symbol": "ada",
+      "name": "Cardano",
+      "metrics": {
+        "current_price": 0.45,
+        "market_cap": 16000000000,
+        "change_24h": null
+      },
+      "status": "maintenance"
+    },
+    {
+      "id": "polkadot",
+      "symbol": "dot",
+      "name": "Polkadot",
+      "metrics": {
+        "current_price": 7.25,
+        "market_cap": 10000000000,
+        "change_24h": -0.5
+      },
+      "status": "active"
+    }
+  ]
+}
